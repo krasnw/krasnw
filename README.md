@@ -1,8 +1,9 @@
-## :ocean: Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+## :ocean: Hi there <img src="https://slackmojis.com/emojis/63871-clippy-tap/download" width="23"/>
 
 Welcome to my GitHub profile!  
 I'm Uladzilslau, a Full-stack from Poland.  
-Currently studying at Lublin Polytechnic, field of study: Software Engineering.
+Currently studying at Lublin University of Technology  
+Field of study: Software Engineering.
 
 ### 🔭 Projects I'm working on:
 
