@@ -5,7 +5,7 @@ I'm Uladzilslau, a Full-stack from Poland.
 Currently studying at Lublin University of Technology  
 Field of study: Software Engineering.
 
-### 🔭 Projects I'm working on:
+### 🔭 Projects I am currently working on:
 
 * [CryptoDive](https://github.com/NonNoname1201/Crypto-Dive) - An educational platform whose goal is to teach how to use cryptocurrency
 * [ShoesShop](https://github.com/NonNoname1201/ShoeShop) - Online store with shoes
@@ -31,7 +31,7 @@ Field of study: Software Engineering.
 
 ### 📚 Projects I have completed during my studies 
 
-* [ImageStore]() - A simple social media with the ability to add, delete and view images. Project is written in pure PHP using MVC
+* [ImageStore](https://github.com/krasnw/img-strg-Docker) - The project is a simple social media application with the ability to add, delete, and view images. It is written in pure PHP using the Model-View-Controller (MVC) pattern. The application is placed into two Docker containers.
 
 ---
 
